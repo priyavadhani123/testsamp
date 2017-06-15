@@ -1,0 +1,356 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+
+<table width="500" border="1">
+ <tr>
+    <td width="47">&nbsp;</td>
+    <td width="100">&nbsp;</td>
+    <td width="331">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><p><strong><u>MILLING</u></strong></p>
+    <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">Century Tool Company's milling department consists of 24 Vertical milling machines equipped</td>
+  </tr>
+  <tr>
+    <td colspan="3">with 9 x 42 or 9 x 48 inch tables.  It includes:</td>
+  </tr>
+  <tr>
+  <td>1 </td>
+<td>Hurco </td>
+<td>VM1 Vertical Machining Center. 16x14x24 capacity</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Feeler</td>
+<td>High speed VMC (new 2015) 20x16x26 capacity</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td>Quaser</td>
+<td>High speed VMC (new 2013) 24x24x42 capacity</td>
+
+
+
+    line-height: 1.5;
+font-size:18px
+
+<h5 style="color: #133A3A;"></h4>
+
+
+<p style=" line-height: 1.5;font-size:18px">
+
+
+<ul style="line-height: 32px;">
+<li><i style="color: #3c8f8e;" class="icon-right-circled"></i> <a href="#">Aenean sollicitudin</a></li>
+<li><i style="color: #3c8f8e;" class="icon-right-circled"></i> <a href="#">Duis sed odio sit amet</a></li>
+<li><i style="color: #3c8f8e;" class="icon-right-circled"></i> <a href="#">Morbi accumsan</a></li>
+<li><i style="color: #3c8f8e;" class="icon-right-circled"></i> <a href="#">Nam nec tellus </a></li>
+<li><i style="color: #3c8f8e;" class="icon-right-circled"></i> <a href="#">Class aptent taciti</a></li>
+<li><i style="color: #3c8f8e;" class="icon-right-circled"></i> <a href="#">Mauris in erat justo</a></li>
+</ul>
+
+
+<i style="margin-left: 20px;" class="icon-right-open-mini"></i>
+
+#005799#236A9C
+
+
+<ul style=" list-style-type: none;" >
+<li><i style="color: #257AB3;" class="icon-right-circled"></i>CNC Milling </li>
+
+
+4. Pavithra - Working on centurytoolusa website built.
+
+
+
+
+    <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+h3
+<h5 style="font-style: italic;">
+
+<h2>MILLING</h2>
+[divider height="20"]
+<h5 style="font-style: italic;">Century Tool Company's milling department consists of 24 Vertical milling machines equipped
+with 9 x 42 or 9 x 48 inch tables.  It includes:
+.</h5>
+[divider height="10"]
+
+
+
+
+<h3>Our address</h3>
+<p class="big">Century Tool Company, Inc..</p>
+[divider height="15"]
+<div style="padding: 0 0 0 80px; background: url(http://www.dev.centurytoolusa.com/wp-content/uploads/2015/11/home_business2_pin_small.png) no-repeat left top;">
+	<h4 style="margin-bottom: 7px;">Morbi accumsan</h4>
+	<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+	<p class="big" style="margin-bottom: 5px;"><a href="#">+61 (0) 3 8376 6284</a></p>
+	<p class="big"><a href="mailto:noreply@envato.com">noreply@envato.com</a></p>
+</div>
+
+</tr>
+<tr>
+<td>2</td>
+<td>Prototrak</td>
+<td>SM, 3 axis, CNC controlled Bridgeport</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Prototrak</td>
+<td>SM, 3 axis, CNC controlled Bridgeport</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Prototrak</td>
+<td>MX2E, CNC controlled Bridgeports</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Prototrak</td>
+<td>A.G.E. 2 CNC controlled Bridgeports</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Prototrak</td>
+ <td>MX3, 3 axis CNC controlled    Bridgeport</p></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Southwest  Industries</td>
+ <td>TRAK/TRM  Solid Knee Miller with A.G.E. 2 CNC control
+ </td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Southwest  Industries</td>
+    <td>DPM  Solid Knee Miller with SM3 CNC Control</td>
+  </tr>
+    <tr>
+    <td colspan="3"><p><strong><u>EDM </u></strong></p>
+      <p>&nbsp;</p></td>
+  </tr>
+    <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+    <tr>
+    <td colspan="3">The EDM cell is also in an enclosed and climate controlled environment.  It includes:</td>
+  </tr>
+    <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+    <tr>
+    <td>1</td>
+    <td>Fanuc</td>
+    <td>Robocut  Alpha OB, automatic wire fed, 4 axis Wire EDM 6 x 9 x 13</td>
+  </tr>
+    <tr>
+    <td>1</td>
+    <td>Fanuc</td>
+    <td>Robocut  Alpha OC, automatic wire fed, 4 axis Wire EDM 6 x 9 x 13</td>
+  </tr>
+    <tr>
+    <td>1</td>
+    <td>Fanuc</td>
+    <td>Robcout  Alpha 1C, automatic wire fed, 4 axis wire EDM, 10 x 13 x 18</td>
+  </tr>
+    <tr>
+    <td>1</td>
+    <td>Fanuc</td>
+    <td>Robocut  Alpha 0E automatic wire fed, 4 axis wire EDM 10 x 13 x 18 (2012)</td>
+  </tr>
+    <tr>
+    <td>1</td>
+    <td>&nbsp;</td>
+    <td><table border="0" cellspacing="0" cellpadding="0" width="690">
+      <tr>
+        <td width="487" nowrap="nowrap" valign="bottom"><p>All machines are equipped with    Herman Schmidt tooling.</p></td>
+      </tr>
+    </table></td>
+  </tr>
+    <tr>
+    <td>1</td>
+    <td>Eltee</td>
+    <td><p>Sinker Edm</p></td>
+  </tr>
+    <tr>
+    <td colspan="3"><p><strong><u>GRINDING </u></strong></p>
+      <p>&nbsp;</p></td>
+  </tr>
+
+</table>
+
+
+
+</body>
+</html>
+
+font color: #161922
+
+#656B6F
+
+
+.column_column ul, .column_column ol, .the_content_wrapper ul, .the_content_wrapper ol {
+    color: #161922;
+}
+
+.parastyle
+{
+color:#161922
+}
+
+
+
+.header-split #Header .top_bar_left .menu_left {
+      width: 50%  !important;
+}
+.header-split #Header .top_bar_left .menu_right {
+        width: 50% !important;
+}
+
+
+
+.header-semi #Top_bar:not(.is-sticky) {
+    background-color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+}
+
+<ul style=" list-style-type: none;" >
+<li><i style="color: #257AB3;" class="icon-right-circled"></i>CNC Milling </li>
+</ul>
+
+
+.header-stack #Top_bar .menu_wrapper {
+      background: #353534 none repeat scroll 0 0;
+    clear: both;
+    margin-left: -30%;
+    padding: 8px 96px 9px 640px;
+    width: 127%;
+}
+
+
+<img class="call" src="images/icon-call-us.png" alt="call icon">
+<label class="texter1">
+For enquiry, Call to
+<br>
++91 413 2345678
+<br>
++91 77084 01234
+</label>
+</div>
+<div class="locateus">
+<a href="contact.php">
+<img class="locate" src="images/icon-location.png" alt="location icon">
+</a>
+<a href="contact.php">
+<label class="texter">Find Our Location</label>
+</a>
+</div>
+
+
+jQuery.noConflict();
+ (function($){
+  $(function() {
+  	$('div#logo').after('<div class="contactblock"><div><p class="paraone">Call: <a href="tel:+17183435762" target="_self">718-343-5762</a></p></div><div><p class="paratwo">Email: <a href="mailto:contact@smilesinqueens.com" target="_self">contact@smilesinqueens.com</a></p></div> <div id="header_icon"><a href="https://www.facebook.com/" target="_blank" alt="Facebook"><img src="/wp-content/uploads/2017/02/Facebook.png"/></a>  <a href="https://twitter.com/" target="_blank" alt="twitter"><img src="/wp-content/uploads/2017/02/twitter.png"/></a><a href="https://accounts.google.com/" target="_blank" alt="Google+"><img src="/wp-content/uploads/2017/02/google.png"/></a></div></div>');
+  });
+})(jQuery);
+
+
+<h5>
+<ul style=" list-style-type: none;" >
+<li><i style="color: #257AB3;" class="icon-call"></i><b>Call:</b> <a href="tel:+17183435762" target="_self">718-343-5762</a> </li>
+<li><i style="color: #257AB3;" class="icon-email"></i><b>Email:</b> <a href="mailto:contact@smilesinqueens.com" target="_self">contact@smilesinqueens.com</a></li>
+</ul>
+</h5>
+
+<div id="Top_bar" class="" style="filter:alpha(opacity=50); opacity:0.5;">
+
+
+
+#block_container
+{
+    text-align:center;
+}
+#bloc1, #bloc2
+{
+    display:inline;
+}
+<img src="http://www.dev.centurytoolusa.com/wp-content/uploads/2017/06/Home.png">
+
+<div>
+<img src="http://www.dev.centurytoolusa.com/wp-content/uploads/2017/06/Home.png">
+<h1 style="margin: 0; color: #ffffff;">Welcome to Century Tool Company, Inc.</h1>
+</div>
+
+
+
+
+.header-stack #Top_bar .menu_wrapper {
+   background: red none repeat scroll 0 0;
+    clear: both;
+    margin-left: -27%;
+    padding: 9px 98px 70px 492px;
+    width: 127%;
+}
+
+    background: red none repeat scroll 0 0;
+    clear: both;
+    margin-left: -31%;
+    padding: 6px 58px 13px 497px;
+    width: 123%;
+
+
+<div id="block_container">
+<img  id="bloc1" class="scale-with-grid" src="http://www.dev.centurytoolusa.com/wp-content/uploads/2017/06/Home.png" alt="" />     <h1 id="bloc2" style="margin: 0; color: #ffffff;">Welcome to Century Tool Company, Inc.</h1>
+</div>
+
+
+banner text
+
+<div style="width:100%; float:left;">Call:718-343-5762</div>
+<div style="float: right; width: 55%;"><div style="float: left; width: 14%;">Email:</div><div style="float: left; width: 85%; margin-top: 5%;"><a href="mailto:contact@smilesinqueens.com" target="_self">contact@smilesinqueens.com</a></div> </div>
+
+
+
+<div id="block_container">
+<img  id="bloc1" class="scale-with-grid" src="http://www.dev.centurytoolusa.com/wp-content/uploads/2017/06/telephone-chat.png" alt="" />     <h3 id="bloc2" style="margin: 0; color: blue;">Services</h3>
+</div>
+
+
+
+sorry, nethu ni panadhu enaku tension agiduchi. mrng vathadhum apdi paniya adhan irritate agita sorry..
+
+
+Top_bar
+
+
+#Top_bar {
+    height: 200px;
+    background: -webkit-linear-gradient(white, white, #2990D4); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, white, #2990D4); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, white, #2990D4); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, white, #2990D4); /* Standard syntax (must be last) */
+}
